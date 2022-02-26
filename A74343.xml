@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the punishment of crimes committed upon, or beyond the seas. Die Jovis, 20 Septembr. 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74343</idno>
+            <idno type="STC">Thomason E1060_65</idno>
+            <idno type="STC">ESTC R208698</idno>
+            <idno type="EEBO-CITATION">99867625</idno>
+            <idno type="PROQUEST">99867625</idno>
+            <idno type="VID">119944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119944)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the punishment of crimes committed upon, or beyond the seas. Die Jovis, 20 Septembr. 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>p. [2], 553-557, [i.e. 7] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field for Edward Husband, printer to the Parliament of England: and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 5B⁴. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 5B2: last word of first line of text: "convenient"; first word of line below initial: "ed"; last word of last full line: "Ship,".</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Criminal law --  England --  Early works to 1800.</term>
+               <term>Mutiny --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Treason --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119944:1" rendition="simple:additions"/>
+            <p>AN ACT FOR THE Puniſhment of Crimes Committed upon, or beyond the SEAS.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>Die Jovis, 20 Septembr. 1649.</p>
+            <p>
+               <hi>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliament'.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England:</hi> and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Golden-Dragon, near the Inner-Temple, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119944:2"/>
+            <pb n="553" facs="tcp:119944:2"/>
+            <head>AN ACT FOR THE Puniſhment of Crimes Committed upon, or beyond the SEAS.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the more convenient and ſpeedy puniſhment of Crimes and Offen<g ref="char:EOLhyphen"/>ces done and commit<g ref="char:EOLhyphen"/>ted, and hereefter to be done and committed upon and beyond the Sea, The Parliament of <hi>England</hi> now aſſem<g ref="char:EOLhyphen"/>bled do Enact and De<g ref="char:EOLhyphen"/>clare, and be it Enact<g ref="char:EOLhyphen"/>ed and Declared by Authority of the ſame, That all ſuch Treaſons, Felonies, Piracies, Robbe<g ref="char:EOLhyphen"/>ries, Murtherers and Confederacies thereof, which have been at any time ſince the Five and twentieth day of <hi>MARCH,</hi> in the year of our Lord, 1646. committed, or hereafter ſhall be committed in or upon the Sea, or in any Haven, River, Creek or place, where the Admiral or Ad<g ref="char:EOLhyphen"/>mirals had, have, or pretend to have Power, Au<g ref="char:EOLhyphen"/>thority or Iuriſdiction; and all ſtealing, or ta<g ref="char:EOLhyphen"/>king, or treacherous carrying away of any Ship,
+<pb n="554" facs="tcp:119944:3"/> Barque or Boat, Ordnance or Ammunition (ap<g ref="char:EOLhyphen"/>pointed for the publique Service of the State, or for any private benefit of the Owners) from ſuch places and imployment, and without lawful warrant and authority from the publique State, or ſuch private perſons reſpectively thereto firſt had and obtained; And all Murthers and Man<g ref="char:EOLhyphen"/>ſlaughters committed by any of the Natural Leighs of this Nation, upon or againſt any of the good people of the ſame in any the Forreign parts whereſoever (upon any matter, cauſe or oc<g ref="char:EOLhyphen"/>caſion originally beginning within this Land, du<g ref="char:EOLhyphen"/>ring ſuch time as ſuch perſons had their abode within the ſame) ſhall be henceforth enquireable, triable and determinable before the Iudges and Iuſtices of <hi>Oyer</hi> and <hi>Terminer,</hi> and of Goal-Deli<g ref="char:EOLhyphen"/>very in the ſeveral and reſpective Shires and Li<g ref="char:EOLhyphen"/>mits of their Commiſſions, where any ſuch of<g ref="char:EOLhyphen"/>fenders ſhall be found: And the ſaid Iudges and Iuſtices by vertue hereof, and of the ſeveral Com<g ref="char:EOLhyphen"/>miſſions of <hi>Oyer, Terminer,</hi> and Goal-Delivery to them directed, ſhall give the ſame in charge at ſuch time as they ſhall hold their Seſſions by vertue of ſuch Commiſſions; And ſhall have full power and authority to enquire of all the Crimes and Offences aforeſaid, and of every of them, by the Oathes of twelve good and lawful men, Inha<g ref="char:EOLhyphen"/>bitants in the Shire limited in their Commiſſion, in ſuch like maner and form, as if ſuch Crimes and Offences had been committed upon the Land within the ſame Shire. And if any perſon or per<g ref="char:EOLhyphen"/>ſons (not formerly diſpoſed of, or otherwiſe order<g ref="char:EOLhyphen"/>ed by the Parliament or the Councel of State) ſhall be indicted for ſuch Crime, Offence or Offen<g ref="char:EOLhyphen"/>ces done, or hereafter to be done upon the Seas, or in any other place above-limited, That then ſuch Order, Proces and maner of proceedings
+<pb n="555" facs="tcp:119944:3"/> ſhall be uſed, had, made and done, to and againſt ſuch perſon and perſons ſo being indicted, as is uſed by the courſe of the Law of this Land, and as if the ſaid Crime and Offence, or Crimes and Offences had been committed or done upon the Land; and that the tryal of all and every the Crimes and Offences before-mentioned in this Act, if the offence be denied by the offender or of<g ref="char:EOLhyphen"/>fenders, ſhall be had by twelve lawful men, inha<g ref="char:EOLhyphen"/>biting in the Shire or Shires limited within ſuch Commiſſion or Commiſſions, which ſhalbe directed as aforeſaid; and no challenge or challenges to be had for the Hundred: And ſuch perſon or perſons ſo found guilty of any Crime or Crimes aforeſaid, by Verdict, Confeſſion or Proces, ſhall without allowance of benefit of Clergy, ſuffer ſuch puniſh<g ref="char:EOLhyphen"/>ment by pains of Death, and loſs of Lands and Goods, as in other caſes of Treaſon, Murther, Manſlaughter, Robbery, or other Felony done upon the Land is uſed. And for the better bringing of ſuch perſons to due pubiſhment, Be it Enacted, and by authority of this preſent Parliament it is further Enacted, That as often as any perſon or perſons ſuſpected to be guilty of the Crime or Crimes, and offences aforeſaid, ſhalbe brought be<g ref="char:EOLhyphen"/>fore any Iuſtice or Iuſtices of the Peace, or other chief officer or officers of ſuch place or county, the ſaid Iuſtice and Iuſtices, chief officer or officers ſhall take examinations of witneſſes in writing upon oath (which hereby they are &amp; ſhal be enabled to adminiſter) and information of all or ſo many of the principal perſons that ſhalbe ſo brought before them by warrant of the ſaid Iuſtice or Iuſtices, Officer or Officers or otherwiſe, and of ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall bring ſuch offender or offenders be<g ref="char:EOLhyphen"/>fore them, as he or they ſhall think meet and con<g ref="char:EOLhyphen"/>venient, to diſcover the particular matter or mat<g ref="char:EOLhyphen"/>ters
+<pb n="556" facs="tcp:119944:4"/> in fact; and after ſuch Examinations and Informations had and made, ſhall commit the ſaid offender or offenders in ſafe cuſtody to the Goal of the ſaid place or County, if he or they ſhall ſee juſt cauſe; and ſhall ſend a tranſcript of all the ſaid Examinations and Informations ſo taken, under his or their Hand and Seal, incloſed under Seal to the Councel of State, who are hereby authorized and enabled to diſpoſe of the ſaid offender or offenders, or ſo many of them as they ſhall think meet, and ſend their directions concerning the ſame unto the Iuſtices or chief Officers of the place aforeſaid, who are hereby likewiſe authorized and enjoyned to conform themſelves unto ſuch Directions; and to ſome ſuch offender or offenders, not otherwiſe diſpoſed of as aforeſaid, unto the next Seſſions of Goal-Delivery, or <hi>Oyer</hi> and <hi>Terminer</hi> for the Shire, to be proceeded againſt according to his or their Crime or Crimes: And for the maintenance of ſuch perſon or perſons ſo taken and impriſoned as aforeſaid, or ſo many of them as are not able to maintain him or themſelves, during his or their Impriſonment, It is further Enacted by the Authority aforeſaid, That he or they ſhall be maintained as other priſoners not able to main<g ref="char:EOLhyphen"/>tain themſelves, at the charge of ſuch Shire where they are in priſon, by allowance out of the pub<g ref="char:EOLhyphen"/>lique Treaſury of that Shire, for the priſoners of the Vpper Bench and Marſhalſey; and the ſaid allowance ſhall be made by the Iuſtices of the Peace at their Quarter Seſſions to be holden for the ſaid Shire. And it is further Enacted and Declared by the Authority aforeſaid, That in all caſes where ſuch perſon or perſons ſhall be committed to ſafe cuſtody as aforeſaid, the Kee<g ref="char:EOLhyphen"/>pers of the reſpective Goals or Priſons ſhall re<g ref="char:EOLhyphen"/>ceive
+<pb n="557" facs="tcp:119944:4"/> ſuch perſon or perſons to them committed, and them hold in ſafe cuſtody, and ſhall not ſuffer them to go at large, unleſs they ſhall be diſchar<g ref="char:EOLhyphen"/>ged from Impriſonment by the Order and Dire<g ref="char:EOLhyphen"/>ction of the Parliament or Councel of State, or legal tryal as aforeſaid: And in caſe the Keeper or Keepers of ſuch reſpective Goals, ſhall ſuffer ſuch perſons after ſuch commitment to make any eſcape, in ſuch maner that they ſhall not have ſuch perſons before the ſaid Iudges or Iuſtices at the next Seſſions of Goal-Delivery, or <hi>Oyer</hi> and <hi>Terminer</hi> for the Shire, the ſaid Keepers of ſuch Goal or Goals ſhall be proceeded againſt by Indictment, and ſuffer puniſhment, as in other caſes of eſcapes of Felons by the Law they ought to ſuffer. And it is further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That in all caſes aforeſaid, Commiſſions of <hi>Oyer</hi> and <hi>Terminer</hi> ſhall be iſſued forth by the Lords Commiſſioners of the Great Seal, ſo often as by the Councel of State ſhall be thought meet, and according to their Directi<g ref="char:EOLhyphen"/>ons, as touching the places and limits of ſuch Commiſſions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <head>
+               <hi>Die Jovis,</hi> 20 <hi>Septembr.</hi> 1649.</head>
+            <p>ORdered by the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
